@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\bin\Debug\net5.0\ref\03. Gaming Store.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\ref\03. Gaming Store.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\01 Basic Syntax, Conditional Statements and Loops - More Exercise\01BasicSyntaxMoreExercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.genruntimeconfig.cache
